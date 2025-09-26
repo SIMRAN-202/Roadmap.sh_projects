@@ -1,5 +1,4 @@
 # Roadmap.sh Projects
-[Click on the link](https://roadmap.sh/projects/number-guessing-game)
 
 This repository contains my implementations of projects from [roadmap.sh](https://roadmap.sh)   
 
