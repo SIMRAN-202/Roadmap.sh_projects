@@ -1,5 +1,13 @@
 # Roadmap.sh Projects
 
+## Project Links
+- Frontend Projects  
+  - [Basic HTML Website](https://roadmap.sh/projects/basic-html-website) 
+  - [Date Picker UI](https://roadmap.sh/projects/datepicker-ui)
+
+- Backend Projects 
+  - [Number Guessing Game](https://roadmap.sh/projects/number-guessing-game)  
+
 This repository contains my implementations of projects from [roadmap.sh](https://roadmap.sh)   
 
 The goal of this repo is to practice and showcase solutions for different **frontend** and **backend** projects as suggested in the roadmap.sh guides.  
