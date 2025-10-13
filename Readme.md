@@ -4,6 +4,7 @@
 - Frontend Projects  
   - [Basic HTML Website](https://roadmap.sh/projects/basic-html-website) 
   - [Date Picker UI](https://roadmap.sh/projects/datepicker-ui)
+  - [Changelog Component](https://roadmap.sh/projects/changelog-component)
 
 - Backend Projects 
   - [Number Guessing Game](https://roadmap.sh/projects/number-guessing-game)  
