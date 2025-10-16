@@ -6,6 +6,7 @@
   - [Date Picker UI](https://roadmap.sh/projects/datepicker-ui)
   - [Changelog Component](https://roadmap.sh/projects/changelog-component)
   - [Tooltip UI](https://roadmap.sh/projects/tooltip-ui)
+  - [Testimonial cards](https://roadmap.sh/projects/testimonial-cards)
 
 - Backend Projects 
   - [Number Guessing Game](https://roadmap.sh/projects/number-guessing-game)  

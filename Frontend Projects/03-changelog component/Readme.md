@@ -1,4 +1,4 @@
-# Basic HTML Website
+# Changelog Component
 
 ### Project URL:
 
